@@ -1,6 +1,5 @@
 # Flawless Money Parser
-# Written by: Reuben Gazer (AltaML, 2019)
-# For: Mansour!
+# Written by: Reuben Gazer (2019)
 
 # HOW TO RUN DocParser:
 # - make an instance of DocParser(), with the input path of the .html and output path of the parsed .txt document.
