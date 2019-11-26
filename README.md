@@ -15,7 +15,7 @@ the ```EUDocParser()``` scrapes and parses all relevant text (including titles, 
 ## Example Use
 
 ```
-from EUDocParser import EUDocParser
+from eudocparser import EUDocParser
 my_input = 'eu_legal_doc.html'
 my_output = 'eu_legal_doc.txt'
 
